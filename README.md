@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pulgadado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pulgadado" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/davide catanzaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davide catanzaro" height="30" width="40" /></a>
-<a href="https://fb.com/davide catanzaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="davide catanzaro" height="30" width="40" /></a>
+<a href="https://twitter.com/PulgaDado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pulgadado" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/davide-catanzaro-aa503b275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davide catanzaro" height="30" width="40" /></a>
+<a href="https://www.facebook.com/davide.d.catanzaro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="davide catanzaro" height="30" width="40" /></a>
 <a href="https://instagram.com/_ilcatanzaro03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ilcatanzaro03" height="30" width="40" /></a>
 </p>
 
